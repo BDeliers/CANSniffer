@@ -33,7 +33,7 @@ My sources:
 ---
 
 PC Software:
-![alt tag](https://raw.githubusercontent.com/BDeliers/CanSniffer/main/images/PCSoft.png)
+![alt tag](https://raw.githubusercontent.com/BDeliers/CANSniffer/main/images/PCSoft.png)
 
 My PCB:
-![alt tag](https://raw.githubusercontent.com/BDeliers/CanSniffer/main/images/PCB.jpg)
+![alt tag](https://raw.githubusercontent.com/BDeliers/CANSniffer/main/images/PCB.jpg)
